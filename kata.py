@@ -20,19 +20,3 @@ print(unlucky_days_b(2019))
 
 
 
-
-
-
-
-
-
-
-
-
-def bday_of_week():
-
-    return (date(y))
-
-
-
-
